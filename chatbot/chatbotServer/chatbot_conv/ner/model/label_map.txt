@@ -1,0 +1,11 @@
+[CLS]
+[SEP]
+[PAD]
+[MASK]
+O
+B-HOS
+B-LOC
+B-MED
+I-HOS
+I-LOC
+I-MED
